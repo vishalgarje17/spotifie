@@ -42,10 +42,6 @@ If you like my work, feel free to:
 Thanks a Bunch for Stopping By! <3
 
 
-[facebook]: https://www.facebook.com/profile.php?id=100009322472394
-[instagram]: https://www.instagram.com/basim_khann
-[snapchat]: https://github.com/BasimAhmedKhan/BasimAhmedKhan/blob/main/assets/WhatsApp%20Image%202022-01-09%20at%207.23.20%20PM.jpeg
-[linkedin]: https://www.linkedin.com/in/basim-khan-604a76189/
 
 ## Tech Stack
 Front-End
